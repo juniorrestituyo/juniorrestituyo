@@ -2,28 +2,17 @@
 <div align="justify">
 
 <!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
+  <img src='https://github.com/juniorrestituyo/juniorrestituyo/blob/main/gif/pixel-jeff-matrix-s.gif'>
   <p align="center">
     <samp>
       <b>
         Hello There
-      <br>
-        I'm Robert, a Software Engineer Student.
       </b>
       <br>
-        <!-- <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
-      <br> -->
-      <b>
-        ~ Roberto Jr. Restituyo ~
-      </b>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=400&height=45&lines=I'm+Robert%2C+a+Software+Engineer+Student.">
+      <br>
     </samp>
   </p>
-<p align="right"><strong><samp>」</samp></strong></p>
-
-<br>
-
-<details>
-<summary><samp><b>More Info</b></samp></summary>
 
 <h2></h2><br>
 
