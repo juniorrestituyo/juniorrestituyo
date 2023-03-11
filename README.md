@@ -16,16 +16,6 @@
 
 <h2></h2><br>
 
-<!-- Contact Me -->
-<p align="center">
-  <samp>
-    [<a href="https://twitter.com/jrrestituyodev">twitter</a>]
-    [<a href="https://instagram.com/juniorrestituyo">instagram</a>]
-  </samp>
-</p>
-
-<h2></h2><br>
-
 <!-- Github Stats -->
 <div align="center">
   <table>
