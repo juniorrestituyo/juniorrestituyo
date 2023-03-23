@@ -3,7 +3,7 @@
 
 <!-- Profile -->
   <p align="center">
-  <img src='https://github.com/juniorrestituyo/juniorrestituyo/blob/main/gif/the_matrix.gif'>
+  <img alt='main-gif' src='https://github.com/juniorrestituyo/juniorrestituyo/blob/main/gif/the_matrix.gif'>
   <br>
   <br>
     <samp>
@@ -20,14 +20,10 @@
 
 <!-- Github Stats -->
 <div align="center">
-  <table >
-    <tr align="center">
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorrestituyo&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
-    </tr>
-    <tr>
-    <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juniorrestituyo&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-    </tr>
-  </table>
+      <a href="#"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorrestituyo&layout=compact&line_height=21&hide_border=true&theme=dark"/></a></td>
+      <br>
+      <br>
+      <a href="#"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juniorrestituyo&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=dark"/></a>
 </div>
 
 </details>
