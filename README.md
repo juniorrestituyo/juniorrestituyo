@@ -38,6 +38,8 @@
       <img src="https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git" alt="git" height="50px"/>
       <img src="https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux" alt="linux" height="50px"/>
       <img src="https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=shell" alt="bash" height="50px"/>
+      <img src="https://img.shields.io/badge/-MongoDB-181717?style=flat-square&logo=mongodb" alt="mongodb" height="50px"/>
+      <img src="https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql" alt="mysql" height="50px"/>
       <img src="https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visualstudiocode" alt="vscode" height="50px"/>
   </p>
 
