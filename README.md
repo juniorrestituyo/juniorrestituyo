@@ -30,6 +30,8 @@
   <p align="center">
       <img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python" alt="python" height="50px"/>
       <img src="https://img.shields.io/badge/-Django-181717?style=flat-square&logo=django" alt="django" height="50px"/>
+      <img src="https://img.shields.io/badge/-HTML-181717?style=flat-square&logo=html5" alt="html" height="50px"/>
+      <img src="https://img.shields.io/badge/-CSS-181717?style=flat-square&logo=css3" alt="css" height="50px"/>
       <img src="https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=JavaScript" alt="javascript" height="50px"/>
       <img src="https://img.shields.io/badge/-Node.JS-181717?style=flat-square&logo=node.js" alt="nodejs" height="50px"/>
       <img src="https://img.shields.io/badge/-Express-181717?style=flat-square&logo=express" alt="express" height="50px"/>
