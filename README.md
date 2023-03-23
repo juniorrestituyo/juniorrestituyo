@@ -27,22 +27,16 @@
   <!-- Technologies -->
   ## :floppy_disk: Technologies
   <p align="center">
+      <img src="https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=JavaScript" alt="javascript" height="50px"/>
       <img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python" alt="python" height="50px"/>
-      <img src="https://img.shields.io/badge/-Kali%20Linux-181717?style=flat-square&logo=kalilinux" alt="kalilinux" height="50px"/>
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="github" height="50px"/>
       <img src="https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux" alt="linux" height="50px"/>
       <img src="https://img.shields.io/badge/-PowerShell-181717?style=flat-square&logo=powershell" alt="powershell" height="50px"/>
-      <img src="https://img.shields.io/badge/-CSharp-181717?style=flat-square&logo=csharp" alt="csharp" height="50px"/>
-      <img src="https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker" alt="docker" height="50px"/>
       <img src="https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=shell" alt="bash" height="50px"/>
-      <img src="https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java" alt="java" height="50px"/>
-      <img src="https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon" alt="aws" height="50px"/>
-      <img src="https://img.shields.io/badge/-Cloud-181717?style=flat-square&logo=ubuntu" alt="cloud" height="50px"/>
+      <img src="https://img.shields.io/badge/-CSharp-181717?style=flat-square&logo=csharp" alt="csharp" height="50px"/>
       <img src="https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git" alt="git" height="50px"/>
-      <img src="https://img.shields.io/badge/-Raspberry%20Pi-181717?style=flat-square&logo=raspberrypi" alt="raspberrypi" height="50px"/>
       <img src="https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visualstudiocode" alt="vscode" height="50px"/>
       <img src="https://img.shields.io/badge/-Windows-181717?style=flat-square&logo=windows" alt="windows" height="50px"/>
-      <img src="https://img.shields.io/badge/-Debian-181717?style=flat-square&logo=debian" alt="debian" height="50px"/>
   </p>
     
   <!-- Github Stats -->
