@@ -20,9 +20,10 @@
       <br>
     </samp>
   </p> -->
-    
+  <!-- About me -->
   ## :bust_in_silhouette: About Me
-
+  - Software Engineer Student
+  - Web Developer
     
   <!-- Technologies -->
   ## :floppy_disk: Technologies
