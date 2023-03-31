@@ -25,8 +25,8 @@
   - Software Engineer Student
   - Web Developer
     
-  <!-- Technologies -->
-  ## :floppy_disk: Technologies
+  <!-- Knowledge -->
+  ## :floppy_disk: Knowledge
   <p align="center">
       <img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python" alt="python" height="50px"/>
       <img src="https://img.shields.io/badge/-Django-181717?style=flat-square&logo=django" alt="django" height="50px"/>
