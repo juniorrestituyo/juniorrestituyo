@@ -21,13 +21,14 @@
     </samp>
   </p> -->
   <!-- About me -->
-  ## :bust_in_silhouette: About Me
-  - Software Engineer Student
-  - Web Developer
+<!--   ## :bust_in_silhouette: About Me
+  
+  Software Engineer Student -->
     
   <!-- Technologies -->
-  ## :floppy_disk: Technologies
-  <p align="center">
+<!--   ## :floppy_disk: Technologies
+  ### Languages
+  <p>
       <img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python" alt="python" height="50px"/>
       <img src="https://img.shields.io/badge/-Django-181717?style=flat-square&logo=django" alt="django" height="50px"/>
       <img src="https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=JavaScript" alt="javascript" height="50px"/>
@@ -41,10 +42,10 @@
       <img src="https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git" alt="git" height="50px"/>
       <img src="https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux" alt="linux" height="50px"/>
       <img src="https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=shell" alt="bash" height="50px"/>     
-  </p>
+  </p> -->
 
   <!-- Github Stats -->
-  ## :octocat: Github Stats
+<!--   ## :octocat: Github Stats -->
   <div align="center">
     <a href="#"><img height="150px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorrestituyo&layout=compact&line_height=21&hide_border=true&theme=dark"/></a></td>
   </div>
