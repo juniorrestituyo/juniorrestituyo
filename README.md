@@ -25,24 +25,22 @@
   - Software Engineer Student
   - Web Developer
     
-  <!-- Knowledge -->
-  ## :floppy_disk: Knowledge
+  <!-- Technologies -->
+  ## :floppy_disk: Technologies
   <p align="center">
       <img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python" alt="python" height="50px"/>
       <img src="https://img.shields.io/badge/-Django-181717?style=flat-square&logo=django" alt="django" height="50px"/>
-      <img src="https://img.shields.io/badge/-HTML-181717?style=flat-square&logo=html5" alt="html" height="50px"/>
-      <img src="https://img.shields.io/badge/-CSS-181717?style=flat-square&logo=css3" alt="css" height="50px"/>
       <img src="https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=JavaScript" alt="javascript" height="50px"/>
       <img src="https://img.shields.io/badge/-Node.JS-181717?style=flat-square&logo=node.js" alt="nodejs" height="50px"/>
       <img src="https://img.shields.io/badge/-Express-181717?style=flat-square&logo=express" alt="express" height="50px"/>
-      <img src="https://img.shields.io/badge/-React-181717?style=flat-square&logo=react" alt="react" height="50px"/>
+      <img src="https://img.shields.io/badge/-MongoDB-181717?style=flat-square&logo=mongodb" alt="mongodb" height="50px"/>
+      <img src="https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql" alt="mysql" height="50px"/>
+      <img src="https://img.shields.io/badge/-HTML-181717?style=flat-square&logo=html5" alt="html" height="50px"/>
+      <img src="https://img.shields.io/badge/-CSS-181717?style=flat-square&logo=css3" alt="css" height="50px"/>
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="github" height="50px"/>
       <img src="https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git" alt="git" height="50px"/>
       <img src="https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux" alt="linux" height="50px"/>
-      <img src="https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=shell" alt="bash" height="50px"/>
-      <img src="https://img.shields.io/badge/-MongoDB-181717?style=flat-square&logo=mongodb" alt="mongodb" height="50px"/>
-      <img src="https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql" alt="mysql" height="50px"/>
-      <img src="https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visualstudiocode" alt="vscode" height="50px"/>
+      <img src="https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=shell" alt="bash" height="50px"/>     
   </p>
 
   <!-- Github Stats -->
