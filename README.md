@@ -50,7 +50,7 @@
   technologies: {
     backEnd: {
       js: ["Node.js", "Express.js"],
-      database: ["MySQL", "MongoDB"]
+      dataBase: ["MySQL", "MongoDB"]
     },
   },
   currentOccupation: ["Student, open for job opportunities"],
