@@ -46,10 +46,11 @@
   
   ``` js
   const aboutMe = {
-  code: [Javascript, Node.js, HTML, CSS],
+  code: ["JavaScript", "Node.js", "HTML", "CSS"],
   technologies: {
     backEnd: {
-      js: ["Node.js, Express.js"]
+      js: ["Node.js", "Express.js"],
+      database: ["MySQL", "MongoDB"]
     },
   },
   currentOccupation: ["Student, open for job opportunities"],
