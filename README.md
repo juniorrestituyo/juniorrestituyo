@@ -43,9 +43,23 @@
       <img src="https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux" alt="linux" height="50px"/>
       <img src="https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=shell" alt="bash" height="50px"/>     
   </p> -->
+  
+  ``` js
+  const aboutMe = {
+  code: [Javascript, Node.js, HTML, CSS],
+  technologies: {
+    backEnd: {
+      js: ["Node.js, Express.js"]
+    },
+  },
+  currentOccupation: ["Student, open for job opportunities"],
+  challenge: "Working to be a backend specialist.",
+};
+  ```
 
   <!-- Github Stats -->
-<!--   ## :octocat: Github Stats -->
+  
+  ## :octocat: Github Stats
   <div align="center">
     <a href="#"><img height="150px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorrestituyo&layout=compact&line_height=21&hide_border=true&theme=dark"/></a></td>
   </div>
