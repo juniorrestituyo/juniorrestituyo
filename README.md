@@ -46,16 +46,16 @@
   
   ``` js
   const aboutMe = {
-  code: ["JavaScript", "Node.js", "HTML", "CSS"],
+  code: ["JavaScript", "Node.js", "HTML", "CSS", "Python"],
   technologies: {
     backEnd: {
-      js: ["Node.js", "Express.js"],
-      dataBase: ["MySQL", "MongoDB"]
+      frameWorks: ["Express.js"],
+      dataBases: ["PostgreSQL", "MySQL", "MongoDB"]
     },
   },
-  currentOccupation: ["Student, open for job opportunities"],
-  challenge: "Working to be a backend specialist.",
-};
+  currentOccupation: ["Software Engineer Student"],
+  challenge: "Studying to be a Senior Backend Developer, DBA and Cloud Specialist",
+} ;
   ```
 
   <!-- Github Stats -->
