@@ -13,7 +13,7 @@
 <!--   <p align="center">
     <samp>
       <b>
-        Operator. Robert.
+        Operator Robert.
       </b>
         <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=400&height=45&lines=I'm+Robert%2C+a+Software+Engineer+Student">
