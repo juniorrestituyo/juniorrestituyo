@@ -6,9 +6,9 @@
     <img alt='main-gif' src='https://github.com/juniorrestituyo/juniorrestituyo/blob/main/gif/the_matrix.gif'>
   </div>
   
-  <div align="center">
+ <!-- <div align="center">
     <h1>Operator Robert.</h1>
-  </div>
+  </div> -->
   
 <!--   <p align="center">
     <samp>
