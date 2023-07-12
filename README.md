@@ -47,11 +47,11 @@
   
   ``` js
   const aboutMe = {
-  code: ["JavaScript", "Node.js", "HTML", "CSS", "Python"],
+  code: ["JavaScript", "Node.js", "HTML", "CSS", "SQL"],
   technologies: {
     backEnd: {
       frameWorks: ["Express.js"],
-      dataBases: ["PostgreSQL", "MySQL", "MongoDB"]
+      dataBases: ["PostgreSQL", "MongoDB"]
     },
   },
   currentOccupation: ["Software Engineer Student"],
