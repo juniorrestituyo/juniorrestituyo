@@ -55,7 +55,7 @@
     },
   },
   currentOccupation: ["Software Engineer Student"],
-  challenge: "Studying to be a Senior Backend Developer, DBA and Cloud Specialist",
+  challenge: "Focused on being a Senior Backend Developer, DBA and Cloud Specialist",
 } ;
   ```
 
