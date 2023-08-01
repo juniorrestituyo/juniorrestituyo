@@ -6,7 +6,6 @@
     <img alt='main-gif' src='https://github.com/juniorrestituyo/juniorrestituyo/blob/main/gif/the_matrix.gif'>
   </div>
   
-  ---
  <!-- <div align="center">
     <h1>Operator Robert.</h1>
   </div> -->
@@ -44,6 +43,8 @@
       <img src="https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux" alt="linux" height="50px"/>
       <img src="https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=shell" alt="bash" height="50px"/>     
   </p> -->
+
+  ## :bust_in_silhouette: About
   
   ``` js
   const aboutMe = {
