@@ -65,11 +65,6 @@
   ## :octocat: Github Stats
   <div align="center">
     <a href="#"><img height="150px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorrestituyo&layout=compact&line_height=21&hide_border=true&theme=dark"/></a></td>
-  </div>
-
-  <br>
-
-  <div align="center">
     <a href="#"><img height="150px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juniorrestituyo&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=dark"/></a>
   </div>
 
